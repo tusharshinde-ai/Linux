@@ -1,0 +1,7 @@
+snap-private-tmp
+systemd-private-72b26abcca0c41e9b341d49da8992cff-ModemManager.service-nw019G
+systemd-private-72b26abcca0c41e9b341d49da8992cff-chrony.service-XQPTeG
+systemd-private-72b26abcca0c41e9b341d49da8992cff-fwupd.service-DiuTKR
+systemd-private-72b26abcca0c41e9b341d49da8992cff-irqbalance.service-IF5Fx1
+systemd-private-72b26abcca0c41e9b341d49da8992cff-polkit.service-xwzX0k
+systemd-private-72b26abcca0c41e9b341d49da8992cff-systemd-logind.service-kHGTTd

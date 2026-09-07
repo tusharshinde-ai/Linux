@@ -1,0 +1,12 @@
+System.map-7.0.0-1006-aws
+config-7.0.0-1006-aws
+efi
+grub
+initrd.img
+initrd.img-7.0.0-1006-aws
+initrd.img.old
+lost+found
+microcode.cpio
+vmlinuz
+vmlinuz-7.0.0-1006-aws
+vmlinuz.old

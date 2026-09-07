@@ -1,0 +1,5 @@
+README
+amazon-ssm-agent
+bin
+core22
+snapd
