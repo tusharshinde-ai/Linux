@@ -1,0 +1,6 @@
+PING www.google.com (142.251.153.119) 56(84) bytes of data.
+64 bytes from 142.251.153.119: icmp_seq=1 ttl=117 time=1.16 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.161/1.161/1.161/0.000 ms
